@@ -1,8 +1,8 @@
 # JogoArcade
- <h1>Faça um jogo Arcade com as seguintes características:</h1>
+ <h1>Este é um jogo Arcade com as seguintes características:</h1>
   <ul>
-    <li>Deve ter um fundo estático com a textura de nome fundo.png </li>
-    <li>Deve ter uma nave do jogador com a textura jogador.png </li>
+    <li>Um fundo estático com a textura de nome fundo.png </li>
+    <li>DIma nave do jogador com a textura jogador.png </li>
       <ul>
         <li>A nave do jogador deve poder se mover apenas para cima e para baixo.</li> 
         <li>Se a nave ultrapassar o limite superior da tela, ele deve reaparecer na borda inferior.</li>
